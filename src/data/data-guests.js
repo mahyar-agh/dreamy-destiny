@@ -82,8 +82,8 @@ export const guests = [
     countryFlag: "https://flagcdn.com/ir.svg",
   },
   {
-    fullName: "Gabriel Silva",
-    email: "gabriel@gmail.com",
+    fullName: "Neymar Junior",
+    email: "neymar@gmail.com",
     nationality: "Brazil",
     nationalID: "109283465",
     countryFlag: "https://flagcdn.com/br.svg",
